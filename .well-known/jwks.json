@@ -5,7 +5,7 @@
       "e": "AQAB",
       "use": "sig",
       "kid": "j_36TNrhzkVof67ypkkO_eMhDiArjdkCTVxphqyS23U",
-      "alg": "RS256",
+      "alg": "RS384",
       "n": "pT2PTv2AzOmsCO54nPE7vzJsK-aNQYPx0ozYY7M9wJ4LhaaTUQO8zithSjApH0sGGqLkuhH5-VFgzxhFPl4BBoENdJx0HLRvzt9WWrboLFW1fF4DM_sV4mfcuINkSmgzyXQOFHf0tA-jyKYy7sTFky4Vrmccn8OX1TJ-193hWjdecnQjD8NU7kUK4NK4njvlZdg5V0T6hAIm_9QmPlmZC4TIFA_5R6cQdxpdLD5eBeSd5XIH1yXPUoW5UUpin07udb-2W6Ksc8fs9m-OK8CAcbRscd0WWjR44m-I0wQ7oIiXLrXjfay1X4ikLP1OOBUwsaO4gbnOkJow6HdNYzw13w"
     }
   ]
